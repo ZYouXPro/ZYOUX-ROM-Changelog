@@ -1,2 +1,2 @@
-# coloros-update-for-zyouxrom
+# ZYOUX-ROM-Changelog
 ZYOUX ROM更新日志
